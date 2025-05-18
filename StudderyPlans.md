@@ -1,6 +1,6 @@
 # Studdery Fresh start plans and roadmap
 Updated last May 18 2025, 1:37 PM EST or 12:37 CT
-
+More stuff in plans can get added, its not all.
 
 # Core Features
 - [ ] Main Menu
