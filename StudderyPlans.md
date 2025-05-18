@@ -16,6 +16,6 @@ More stuff in plans can get added, its not all.
 
 
 # Completed Checklist
-0/6 Completed Features (0% Complete)
+0/8 Completed Features (0% Complete)
 - [ ] Stable Release
 - [ ] Complete Alpha Release
