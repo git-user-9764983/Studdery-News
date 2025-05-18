@@ -14,6 +14,6 @@ Updated last May 18 2025, 1:37 PM EST or 12:37 CT
 
 
 # Completed Checklist
-0/7 Completed Features (0% Complete)
+0/6 Completed Features (0% Complete)
 - [ ] Stable Release
 - [ ] Complete Alpha Release
