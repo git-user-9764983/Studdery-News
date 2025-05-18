@@ -1,5 +1,4 @@
 # Studdery Fresh start plans and roadmap
-Updated last May 18 2025, 1:47 PM EST or 12:47 CT\
 More stuff in plans can get added, its not all.
 
 # Core Features
@@ -10,12 +9,17 @@ More stuff in plans can get added, its not all.
 - [ ] Player customization/specials (Tools, player accessories, etc)
 - [ ] Items redesign (planters/crops rework with more crops, etc)
 
+
+# Minor Features
+- [X] Game Logo 
+
 # Upcoming (possible ideas)
 - [ ] Custom inventory toolbar
 - [ ] Multiplayer Allow permissions (allow for others to move, interact with items.)
 
 
 # Completed Checklist
-0/8 Completed Features (0% Complete)
+1/9 Completed Features (11.11% Complete)\
+PERCENTAGE CAN DROP AND CHANGE IF MORE ARE ADDED
 - [ ] Stable Release
 - [ ] Complete Alpha Release
