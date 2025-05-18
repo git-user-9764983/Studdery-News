@@ -7,6 +7,7 @@ More stuff in plans can get added, its not all.
 - [ ] Data saving/loading (such as slot selection, like which slot, you can pick where and rotate.)
 - [ ] Multiplayer support (handling many slots at once, item/vehicle ownership)
 - [ ] Player customization/specials (Tools, player accessories, etc)
+- [ ] Items redesign (planters/crops rework with more crops, etc)
 
 # Upcoming (possible ideas)
 - [ ] Custom inventory toolbar
