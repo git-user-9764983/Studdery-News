@@ -1,6 +1,7 @@
 # Studdery Fresh start plans and roadmap
 Updated last May 18 2025, 1:37 PM EST or 12:37 CT
 
+
 # Core Features
 - [ ] Main Menu
 - [ ] Data saving/loading (such as slot selection, like which slot, you can pick where and rotate.)
@@ -13,4 +14,6 @@ Updated last May 18 2025, 1:37 PM EST or 12:37 CT
 
 
 # Completed Checklist
-- [ ] Example
+0/7 Completed Features (0% Complete)
+- [ ] Stable Release
+- [ ] Complete Alpha Release
