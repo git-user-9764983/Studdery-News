@@ -2,7 +2,7 @@
 More stuff in plans can get added, its not all.
 
 # Core Features
-- [ ] Main Menu
+- [X] Main Menu (Settings, Credits)
 - [ ] Data saving/loading (such as slot selection, like which slot, you can pick where and rotate.)
 - [ ] Multiplayer support (handling many slots at once, item/vehicle ownership)
 - [ ] Physical Stores (No GUI buying, you can drag items to counter and buy from NPC)
@@ -19,7 +19,7 @@ More stuff in plans can get added, its not all.
 
 
 # Completed Checklist
-1/9 Completed Features (11.11% Complete)\
+2/11 Completed Features (18% Complete)\
 PERCENTAGE CAN DROP AND CHANGE IF MORE ARE ADDED
 - [ ] Stable Release
 - [ ] Complete Alpha Release
