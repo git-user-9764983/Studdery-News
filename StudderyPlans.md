@@ -20,7 +20,7 @@ More stuff in plans can get added, its not all.
 
 
 # Completed Checklist
-2/11 Completed Features (18% Complete)\
+2/12 Completed Features (16% Complete)\
 PERCENTAGE CAN DROP AND CHANGE IF MORE ARE ADDED
 - [ ] Stable Release
 - [ ] Complete Alpha Release
