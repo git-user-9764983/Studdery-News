@@ -1,6 +1,7 @@
 # Studdery Fresh start plans and roadmap
 More stuff in plans can get added, its not all.
 
+
 # Core Features
 - [X] Main Menu (Settings, Credits)
 - [ ] Slot Menu (Slot Selection, rotation, many locations, wipe data option)
