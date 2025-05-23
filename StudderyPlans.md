@@ -13,6 +13,7 @@ More stuff in plans can get added, its not all.
 - [ ] Trees (Axe mechanics, and visual effects)
 
 
+
 # Minor Features
 - [X] Game Logo
 - [ ] Water and swimming stamina (Being able to swim in stud-water and limited stamina)
